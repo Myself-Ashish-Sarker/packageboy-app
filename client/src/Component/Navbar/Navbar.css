@@ -1,0 +1,9 @@
+.no-hover {
+    background-color: transparent;
+    border: none;
+    pointer-events: none;
+}
+
+.no-hover:hover {
+    background-color: transparent;
+}
